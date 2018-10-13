@@ -1,0 +1,12 @@
+{"number_id": "01", "abilities": {}, "set_id": "SPK03", "lrig_type": "Layla", "link_suffix": "Layla%3DNeutral", "is_key_selection": "Yes", "romaji": "Reira Furu Surottoru", "grow_cost": "Red ×0", "kanji": "レイラ＝ニュートラル", "limit": "0", "coin": "3", "type": "LRIG", "rarity": "Red", "color": "Red", "level": "0", "name": "Layla=Neutral", "kana": "レイラニュートラル"}
+
+{"number_id": "02", "abilities": {}, "set_id": "SPK03", "lrig_type": "Piruluk", "link_suffix": "Allos_Piruluk", "is_key_selection": "Yes", "romaji": "Arosu Piruruku", "grow_cost": "Blue ×0", "kanji": "アロス・ピルルク", "limit": "0", "type": "LRIG", "rarity": "Blue", "color": "Blue", "level": "0", "name": "Allos Piruluk", "kana": "アロスピルルク"}
+
+{"number_id": "03", "abilities": {}, "set_id": "SPK03", "lrig_type": "Midoriko", "link_suffix": "Midoriko,_Combat_Girl_(Lostorage)", "is_key_selection": "Yes", "romaji": "Tōki Midoriko", "grow_cost": "Green ×0", "kanji": "闘娘　翠子", "limit": "0", "type": "LRIG", "rarity": "Green", "color": "Green", "level": "0", "name": "Midoriko, Combat Girl", "kana": "トウキミドリコ"}
+
+{"number_id": "04", "abilities": {}, "set_id": "SPK03", "lrig_type": "Guzuko", "link_suffix": "Guzuko,_Useless_Princess", "is_key_selection": "Yes", "romaji": "Daki Guzuko", "grow_cost": "Black ×0", "kanji": "駄姫　グズ子", "limit": "0", "coin": "3", "type": "LRIG", "rarity": "Black", "color": "Black", "level": "0", "name": "Guzuko, Useless Princess", "kana": "ダキグズコ"}
+
+{"number_id": "05", "abilities": {}, "set_id": "SPK03", "lrig_type": "Tama", "link_suffix": "Tamayorihime,_New_Moon_Miko", "is_key_selection": "Yes", "romaji": "Shingetsu no Miko Tamayorihime", "grow_cost": "White ×0", "kanji": "新月の巫女　タマヨリヒメ", "limit": "0", "type": "LRIG", "rarity": "White", "color": "White", "level": "0", "name": "Tamayorihime, New Moon Miko", "kana": "シンゲツノミコタマヨリヒメ"}
+
+{"number_id": "06", "abilities": {}, "set_id": "SPK03", "lrig_type": "Remember", "link_suffix": "Remember,_Next_Dream_Miko", "is_key_selection": "Yes", "romaji": "Raimu no Miko Rimenba", "grow_cost": "Blue ×0", "kanji": "来夢の巫女　リメンバ", "limit": "0", "type": "LRIG", "rarity": "Blue", "color": "Blue", "level": "0", "name": "Remember, Next Dream Miko", "kana": "ライムノミコリメンバ"}
+
